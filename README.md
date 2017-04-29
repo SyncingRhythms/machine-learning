@@ -10,5 +10,5 @@ Linear_Regression
 Logistic_Regression
 * visualized data relationships and classes
 * conducted cross-validated gridsearch with manual and sklearn's implementations
-    - identified and selected opitmal $C$ regularization based on mean accuracy score
+    - identified and selected opitmal C regularization parameter, based on mean accuracy score
 * perfromance was comparable with a slight edge to the sklearn implementation
