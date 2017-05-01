@@ -8,7 +8,7 @@ Linear_Regression
 * used 4-fold cross validation
 
 Logistic_Regression
-* visualized feature and target relationships
+* visualized features and target relationships
 * conducted cross-validated gridsearch with custom and sklearn's implementations
     - identified and selected opitmal C regularization parameter, based on mean accuracy score
 * perfromance was comparable with a slight edge to the sklearn implementation
