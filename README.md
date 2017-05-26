@@ -20,3 +20,16 @@ Clustering
 * Using PCA, performed dimensionality reduction of customer orders
 * Visualized data, clusters, PCA components, and associated metrics
 * tested a variety of other cluster algorithms in scikit-learn
+
+Naive_Bayes
+* vectorize critics' reviews into a bag of words model
+* train a naive bayes algorithm on the bag of words training data
+* binary prediction of fresh or rotten for test data
+
+Recommendation_system
+* explored collaborative filtering algorithms
+* built a system using Python classes
+* predicted movie ratings from similar users 
+    * based on their zip code
+    * based on similarity measures of their ratings
+        * cosine, pearson, and jaccard
